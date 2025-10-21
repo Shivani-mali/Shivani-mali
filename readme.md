@@ -17,11 +17,28 @@
 
 ---
 
-### ⚙️ My Tech Stack  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,java,git,github,vscode,react,tailwind,bootstrap,mongodb,linux,canva" />
-</p>
+### ⚙️ My Tech Stack
 
+<table width="100%">
+  <tr>
+    <td align="center" width="200">
+      <b>Frontend</b><br><br>
+      <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap" />
+    </td>
+    <td align="center" width="200">
+      <b>Languages</b><br><br>
+      <img src="https://skillicons.dev/icons?i=python,java" />
+    </td>
+    <td align="center" width="200">
+      <b>Database</b><br><br>
+      <img src="https://skillicons.dev/icons?i=mongodb" />
+    </td>
+    <td align="center" width="200">
+      <b>Tools & Platforms</b><br><br>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,canva" />
+    </td>
+  </tr>
+</table>
 
 --- 
 ### 📊 My GitHub Analytics
@@ -30,8 +47,37 @@
 </p>
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivani-mali&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00BFFF" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shivani-mali&theme=tokyonight&hide_border=true&background=0d1117&stroke=00BFFF&ring=00BFFF&fire=00BFFF&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&currStreakLabel=ffffff&title_color=00BFFF" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shivani-mali&theme=tokyonight&utcOffset=5.5" />
 </p>
+name: Generate GitHub Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs daily at midnight
+  workflow_dispatch: # Allows manual running
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: Platane/snk@v3
+        id: snake
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          svg_out_path: dist/github-contribution-grid-snake.svg
+          # Your theme colors
+          snk_color: 'color_snake=00BFFF&color_dots=#333333,#00BFFF,#00BFFF,#00BFFF,#00BFFF'
+
+      - name: Push to Output Branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output # This will be a new branch
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 ---
 
@@ -106,5 +152,3 @@
 <p align="center">
   ✨ <em>“Code, Learn, Speak, and Inspire — That’s My Motto.”</em> ✨
 </p>
-
-
