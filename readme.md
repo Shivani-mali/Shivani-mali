@@ -50,34 +50,6 @@
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shivani-mali&theme=tokyonight&hide_border=true&background=0d1117&stroke=00BFFF&ring=00BFFF&fire=00BFFF&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&currStreakLabel=ffffff&title_color=00BFFF" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shivani-mali&theme=tokyonight&utcOffset=5.5" />
 </p>
-name: Generate GitHub Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *" # Runs daily at midnight
-  workflow_dispatch: # Allows manual running
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-
-      - uses: Platane/snk@v3
-        id: snake
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          svg_out_path: dist/github-contribution-grid-snake.svg
-          # Your theme colors
-          snk_color: 'color_snake=00BFFF&color_dots=#333333,#00BFFF,#00BFFF,#00BFFF,#00BFFF'
-
-      - name: Push to Output Branch
-        uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output # This will be a new branch
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 ---
 
