@@ -58,7 +58,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4 align="center"><a href="https://shivani-mali.github.io/LitAura-A-Book-Recommender/">LitAura – Book Recommender</a></h4>
+      <h4 align="center"><a href="https://shivani-mali.github.io/LitAura-Mood_based_book_recommender/">LitAura – Book Recommender</a></h4>
       <p align="center">A web app that suggests books to users based on their preferences, built with a focus on frontend technologies.</p>
       <p align="center">
         <img src="https://skillicons.dev/icons?i=html,css,js,react" />
