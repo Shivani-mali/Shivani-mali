@@ -57,24 +57,25 @@
 ---
 
 ### 🏆 Achievements & Certifications
-<p align="left">
+<div align="center">
   <a href="https://holopin.io/@shivanimali">
     <img src="https://holopin.me/shivanimali" width="350" alt="Holopin Badges" />
   </a>
-</p>
 
-- 🚀 **Agnirva Space Internship** (ISRO Registered Tutor)
-- 🐍 **Python + Django Internship** – Revolution IT Solutions
-- 🤖 **GenAI Essentials** – Microsoft & LinkedIn
-- 🔒 **Cybersecurity Essentials** – Udemy
+  <ul style="display: inline-block; text-align: left; list-style-position: inside;">
+    <li>🚀 <b>Agnirva Space Internship</b> (ISRO Registered Tutor)</li>
+    <li>🐍 <b>Python + Django Internship</b> – Revolution IT Solutions</li>
+    <li>🤖 <b>GenAI Essentials</b> – Microsoft & LinkedIn</li>
+    <li>🔒 <b>Cybersecurity Essentials</b> – Udemy</li>
+  </ul>
+</div>
 
 ---
 
 ### 💬 Connect With Me
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/shivani-mali-64083929a/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
   <a href="mailto:shivanimali339@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45"/></a>
   <a href="https://github.com/Shivani-mali"><img src="https://skillicons.dev/icons?i=github" width="45"/></a>
 </p>
-
 <p align="center">✨ <em>“Code, Learn, Speak, and Inspire — That’s My Motto.”</em> ✨</p>
