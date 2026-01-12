@@ -19,7 +19,7 @@
 
 ### ⚙️ My Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap,python,java,mongodb,git,github,vscode,linux,canva&perline=7" />
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap,python,java,mongodb,mysql,flask,django,fastapi,postman,git,github,vscode,linux,canva&perline=7" />
 </p>
 
 ---
@@ -43,24 +43,24 @@
     <td width="50%" valign="top">
       <h4>✈️ <a href="https://github.com/Shivani-mali/Ai_Travel_Planner">AI Travel Planner</a></h4>
       <p>An intelligent travel companion that generates personalized itineraries based on user preferences.</p>
-      <img src="https://skillicons.dev/icons?i=react,tailwind,js,python" height="20" />
+      <img src="https://skillicons.dev/icons?i=python,flask" height="20" />
     </td>
     <td width="50%" valign="top">
       <h4>🎮 <a href="https://github.com/Shivani-mali/Gamefied_E-Learning_Platform">Gamified E-Learning</a></h4>
       <p>A platform designed to enhance learning experiences through interactive elements and rewards.</p>
-      <img src="https://skillicons.dev/icons?i=react,mongodb,js,css" height="20" />
+      <img src="https://skillicons.dev/icons?i=html,flask,mongodb,js,css" height="20" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h4>📚 <a href="https://shivani-mali.github.io/LitAura-Mood_based_book_recommender/">LitAura – Book Recommender</a></h4>
       <p>A web app that suggests books to users based on their current mood and interests.</p>
-      <img src="https://skillicons.dev/icons?i=react,js,css" height="20" />
+      <img src="https://skillicons.dev/icons?i=html,fastapi,postman,js,tailwindcss" height="20" />
     </td>
     <td width="50%" valign="top">
       <h4>🎙️ <a href="https://codepen.io/shiv-m/pen/ExBpyRq">Voice Cloning A.I</a></h4>
       <p>An exploration into artificial intelligence, neural networks, and voice synthesis.</p>
-      <img src="https://skillicons.dev/icons?i=python" height="20" />
+      <img src="https://skillicons.dev/icons?i=python,html,css,js" height="20" />
     </td>
   </tr>
 </table>
