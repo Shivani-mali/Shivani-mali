@@ -89,4 +89,10 @@
   <a href="mailto:shivanimali339@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45"/></a>
   <a href="https://github.com/Shivani-mali"><img src="https://skillicons.dev/icons?i=github" width="45"/></a>
 </p>
-<p align="center">✨ <em>“Code, Learn, Speak, and Inspire — That’s My Motto.”</em> ✨</p>
+
+---
+
+<p align="center">
+  ✨ <em>“Code, Learn, Speak, and Inspire — That’s My Motto.”</em> ✨
+</p>
+
