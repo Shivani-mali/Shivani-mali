@@ -32,7 +32,6 @@
 </p>
 
 <p align="center">
-
   <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shivani-mali&theme=tokyonight&bg_color=0d1117&hide_border=true&color=00BFFF" alt="Activity Graph" />
 </p>
 
@@ -42,13 +41,25 @@
 <table border="0">
   <tr>
     <td width="50%" valign="top">
+      <h4>✈️ <a href="https://github.com/Shivani-mali/Ai_Travel_Planner">AI Travel Planner</a></h4>
+      <p>An intelligent travel companion that generates personalized itineraries based on user preferences.</p>
+      <img src="https://skillicons.dev/icons?i=react,tailwind,js,python" height="20" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>🎮 <a href="https://github.com/Shivani-mali/Gamefied_E-Learning_Platform">Gamified E-Learning</a></h4>
+      <p>A platform designed to enhance learning experiences through interactive elements and rewards.</p>
+      <img src="https://skillicons.dev/icons?i=react,mongodb,js,css" height="20" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h4>📚 <a href="https://shivani-mali.github.io/LitAura-Mood_based_book_recommender/">LitAura – Book Recommender</a></h4>
-      <p>A web app that suggests books to users based on preferences.</p>
+      <p>A web app that suggests books to users based on their current mood and interests.</p>
       <img src="https://skillicons.dev/icons?i=react,js,css" height="20" />
     </td>
     <td width="50%" valign="top">
       <h4>🎙️ <a href="https://codepen.io/shiv-m/pen/ExBpyRq">Voice Cloning A.I</a></h4>
-      <p>An exploration into artificial intelligence and voice synthesis.</p>
+      <p>An exploration into artificial intelligence, neural networks, and voice synthesis.</p>
       <img src="https://skillicons.dev/icons?i=python" height="20" />
     </td>
   </tr>
