@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Shivani+Mali+%F0%9F%91%8B;Frontend+Developer+%26+Tech+Explorer+%F0%9F%92%BB;AI+Enthusiast+%7C+Open+Source+Contributor;Public+Speaker+%26+Community+Builder+%F0%9F%8E%A4;Code%2C+Learn%2C+Speak%2C+and+Inspire!" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Shivani+Mali;Frontend+Developer+%26+Tech+Explorer+%F0%9F%92%BB;AI+Enthusiast+%7C+Open+Source+Contributor;Public+Speaker+%26+Community+Builder+%F0%9F%8E%A4;Code%2C+Learn%2C+Speak%2C+and+Inspire!" alt="Typing Animation" />
 </div>
 
 <br/>
@@ -14,7 +14,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shivani-mali)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivanimali339@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=About.me&logoColor=white)](#)
-![Profile Views](https://komarev.com/ghpvc/?username=Shivani-mali&style=for-the-badge&color=00BFFF&label=PROFILE+VIEWS)
 
 </div>
 
