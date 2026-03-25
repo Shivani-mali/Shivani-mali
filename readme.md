@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:00BFFF&height=200&section=header&text=Shivani%20Mali&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Public%20Speaker&descAlignY=55&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:00BFFF&height=200&section=header&text=Shivani%20Mali&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=FullStack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Public%20Speaker&descAlignY=55&descSize=18" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Shivani+Mali;Frontend+Developer+%26+Tech+Explorer+%F0%9F%92%BB;AI+Enthusiast+%7C+Open+Source+Contributor;Public+Speaker+%26+Community+Builder+%F0%9F%8E%A4;Code%2C+Learn%2C+Speak%2C+and+Inspire!" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Shivani+Mali;FullStack+Developer+%26+Tech+Explorer+%F0%9F%92%BB;AI+Enthusiast+%7C+Open+Source+Contributor;Public+Speaker+%26+Community+Builder+%F0%9F%8E%A4;Code%2C+Learn%2C+Speak%2C+and+Inspire!" alt="Typing Animation" />
 </div>
 
 <br/>
